@@ -18,6 +18,7 @@ namespace _06_Inheritance
             }
         }
         public string PhoneNumber { get; set; }
+        public int MyProperty { get; set; }
         public string Email { get; set; }
 
         public Person() { }
